@@ -22,8 +22,8 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "6e0deab3-33d7-42a8-a38b-11897b1512b1",
-			"alterId": 64
+                        "id": "使用uuid生成器生成",
+			            "alterId": 64
                     }
                 ]
             },
